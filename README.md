@@ -58,3 +58,5 @@
   <li>Github: <a href="https://github.com/RhnFdly/Struktur-data_1_Sistem-Penjualan">Github</a></li>
   <li>Youtube: <a href="">Youtube</a></li>
 </ul>
+link YouTube 
+https://youtu.be/mpvxFsAL-Hs
